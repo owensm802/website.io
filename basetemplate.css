@@ -1,0 +1,200 @@
+body {
+    width: 90%;
+    margin: 0 auto;}
+
+h1{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 250%;
+    text-shadow: 2px 2px 3px #666666;
+    padding-bottom: 10px;
+}
+
+#content {overflow: auto;}
+#feature {
+    color: darkred;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: center;
+    padding-left: 525px;
+    font-size: 250%;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF,
+    0 0 15px #FFF, 0 0 20px #FFFFFF, 0 0 30px #FFF, 0 0 40px #FFF, 0 0 55px #FFF, 0 0 75px #FFF;
+    color: darkred;;
+background-image: url("computer-science.jpg");}
+.column1 {
+    background:url("8hXlId.jpg") no-repeat;
+    border:none;
+    color:white;
+    width: 33.3%;
+    height: 25%;
+    float: left;
+}
+.column1:hover {
+    transition: transform 5000ms ease-in-out;
+    transform: scale(1.1);
+    color: white;
+    filter: Blur(6px);
+
+}
+.column2 {
+
+
+    color: white;
+    border:none;
+    width: 33.3%;
+    height: 35%;
+    float: left;
+    background-image: url("w7mjAD.jpg");
+}
+
+.column2:hover {
+    transition: transform 5000ms ease-in-out;
+    transform: scale(1.1);
+    color: white;
+    filter: Blur(6px);
+
+
+}
+
+
+.column3 {
+
+    border:none;
+    width: 33.3%;
+    height: 25%;
+    float: left;
+    background-image: url("xdrXKa.jpg");
+}
+.column3:hover {
+    transition: transform 5000ms ease-in-out;
+    transform: scale(1.1);
+    color: white;
+    filter: Blur(6px);
+
+}
+li {
+    display: inline;
+    }
+#feature, .article {
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: #efefef;
+}
+.myButton {
+    box-shadow: 0px 9px 0px 0px #29bbff;
+    background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+    background-color:#2dabf9;
+    border-radius:34px;
+    border:4px solid #0b0e07;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Georgia;
+    font-size:19px;
+    font-style:italic;
+    padding:17px 28px;
+    text-decoration:none;
+    position: center;
+    text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+    background-color:#0688fa;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.hoverText {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 29px;
+    letter-spacing: 1.2px;
+    word-spacing: -3.8px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    padding-left: 100px;
+    padding-top: 100px;
+    cursor: pointer;
+    position: fixed;
+
+
+
+}
+
+.hoverText:hover {
+    position: fixed;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 29px;
+    padding-bottom: 500px;
+    letter-spacing: 1.2px;
+    word-spacing: -3.8px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    cursor: pointer;
+    display: inline;
+}
+
+.hoverText1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 29px;
+    letter-spacing: 1.2px;
+    word-spacing: -3.8px;
+    text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000,
+    -2px -2px 0 #000000, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000;
+    color: mintcream;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    padding-left: 100px;
+    padding-top: 100px;
+    cursor: pointer;
+    position: fixed;
+
+
+
+}
+.hoverText1:hover {
+    position: fixed;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 29px;
+    padding-bottom: 500px;
+    letter-spacing: 1.2px;
+    word-spacing: -3.8px;
+    color: mintcream;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    cursor: pointer;
+    display: inline;
+}
+
+

@@ -1,0 +1,9 @@
+CS 21 - Introduction to Programming
+CS 110 - Intermediate Programming
+CS 121 - Computer Organization
+CS 124 - Data Structures
+
+Other Courses:
+CS91 - Instructing Python
+CS91 - Instructing Computer Organization
+CS91 - Instructing Discrete Structures

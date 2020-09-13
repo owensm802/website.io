@@ -1,0 +1,5 @@
+MATH 241 - Abstract Algebra I
+MATH 242 - Abstract Algebra II
+MATH 255 - Number Theory
+MATH 273 - Cryptography
+MATH 274 - Combinatorial Graph Theory
